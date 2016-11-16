@@ -25,14 +25,10 @@
 		D8DBCAA31C78956500669A0A /* mjpeg_validate.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA781C78956500669A0A /* mjpeg_validate.cc */; };
 		D8DBCAA41C78956500669A0A /* planar_functions.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA791C78956500669A0A /* planar_functions.cc */; };
 		D8DBCAA51C78956500669A0A /* rotate.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA7A1C78956500669A0A /* rotate.cc */; };
-		D8DBCAA61C78956500669A0A /* rotate_any.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA7B1C78956500669A0A /* rotate_any.cc */; };
 		D8DBCAA71C78956500669A0A /* rotate_argb.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA7C1C78956500669A0A /* rotate_argb.cc */; };
-		D8DBCAA81C78956500669A0A /* rotate_common.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA7D1C78956500669A0A /* rotate_common.cc */; };
-		D8DBCAA91C78956500669A0A /* rotate_gcc.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA7E1C78956500669A0A /* rotate_gcc.cc */; };
 		D8DBCAAA1C78956500669A0A /* rotate_mips.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA7F1C78956500669A0A /* rotate_mips.cc */; };
 		D8DBCAAB1C78956500669A0A /* rotate_neon.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA801C78956500669A0A /* rotate_neon.cc */; };
 		D8DBCAAC1C78956500669A0A /* rotate_neon64.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA811C78956500669A0A /* rotate_neon64.cc */; };
-		D8DBCAAD1C78956500669A0A /* rotate_win.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA821C78956500669A0A /* rotate_win.cc */; };
 		D8DBCAAE1C78956500669A0A /* row_any.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA831C78956500669A0A /* row_any.cc */; };
 		D8DBCAAF1C78956500669A0A /* row_common.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA841C78956500669A0A /* row_common.cc */; };
 		D8DBCAB01C78956500669A0A /* row_gcc.cc in Sources */ = {isa = PBXBuildFile; fileRef = D8DBCA851C78956500669A0A /* row_gcc.cc */; };
@@ -84,14 +80,10 @@
 		D8DBCA781C78956500669A0A /* mjpeg_validate.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mjpeg_validate.cc; sourceTree = "<group>"; };
 		D8DBCA791C78956500669A0A /* planar_functions.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = planar_functions.cc; sourceTree = "<group>"; };
 		D8DBCA7A1C78956500669A0A /* rotate.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate.cc; sourceTree = "<group>"; };
-		D8DBCA7B1C78956500669A0A /* rotate_any.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate_any.cc; sourceTree = "<group>"; };
 		D8DBCA7C1C78956500669A0A /* rotate_argb.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate_argb.cc; sourceTree = "<group>"; };
-		D8DBCA7D1C78956500669A0A /* rotate_common.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate_common.cc; sourceTree = "<group>"; };
-		D8DBCA7E1C78956500669A0A /* rotate_gcc.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate_gcc.cc; sourceTree = "<group>"; };
 		D8DBCA7F1C78956500669A0A /* rotate_mips.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate_mips.cc; sourceTree = "<group>"; };
 		D8DBCA801C78956500669A0A /* rotate_neon.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate_neon.cc; sourceTree = "<group>"; };
 		D8DBCA811C78956500669A0A /* rotate_neon64.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate_neon64.cc; sourceTree = "<group>"; };
-		D8DBCA821C78956500669A0A /* rotate_win.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rotate_win.cc; sourceTree = "<group>"; };
 		D8DBCA831C78956500669A0A /* row_any.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = row_any.cc; sourceTree = "<group>"; };
 		D8DBCA841C78956500669A0A /* row_common.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = row_common.cc; sourceTree = "<group>"; };
 		D8DBCA851C78956500669A0A /* row_gcc.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = row_gcc.cc; sourceTree = "<group>"; };
@@ -159,14 +151,10 @@
 				D8DBCA781C78956500669A0A /* mjpeg_validate.cc */,
 				D8DBCA791C78956500669A0A /* planar_functions.cc */,
 				D8DBCA7A1C78956500669A0A /* rotate.cc */,
-				D8DBCA7B1C78956500669A0A /* rotate_any.cc */,
 				D8DBCA7C1C78956500669A0A /* rotate_argb.cc */,
-				D8DBCA7D1C78956500669A0A /* rotate_common.cc */,
-				D8DBCA7E1C78956500669A0A /* rotate_gcc.cc */,
 				D8DBCA7F1C78956500669A0A /* rotate_mips.cc */,
 				D8DBCA801C78956500669A0A /* rotate_neon.cc */,
 				D8DBCA811C78956500669A0A /* rotate_neon64.cc */,
-				D8DBCA821C78956500669A0A /* rotate_win.cc */,
 				D8DBCA831C78956500669A0A /* row_any.cc */,
 				D8DBCA841C78956500669A0A /* row_common.cc */,
 				D8DBCA851C78956500669A0A /* row_gcc.cc */,
@@ -263,8 +251,6 @@
 				D8DBCA9A1C78956500669A0A /* convert.cc in Sources */,
 				D8DBCAA01C78956500669A0A /* convert_to_i420.cc in Sources */,
 				D8DBCAB51C78956500669A0A /* scale.cc in Sources */,
-				D8DBCAA81C78956500669A0A /* rotate_common.cc in Sources */,
-				D8DBCAA91C78956500669A0A /* rotate_gcc.cc in Sources */,
 				D8DBCA961C78956500669A0A /* compare_gcc.cc in Sources */,
 				D8DBCAB41C78956500669A0A /* row_win.cc in Sources */,
 				D8DBCAAE1C78956500669A0A /* row_any.cc in Sources */,
@@ -273,7 +259,6 @@
 				D8DBCA9D1C78956500669A0A /* convert_from_argb.cc in Sources */,
 				D8DBCA9C1C78956500669A0A /* convert_from.cc in Sources */,
 				D8DBCAB31C78956500669A0A /* row_neon64.cc in Sources */,
-				D8DBCAA61C78956500669A0A /* rotate_any.cc in Sources */,
 				D8DBCAAF1C78956500669A0A /* row_common.cc in Sources */,
 				D8DBCAA71C78956500669A0A /* rotate_argb.cc in Sources */,
 				D8DBCAB61C78956500669A0A /* scale_any.cc in Sources */,
@@ -281,7 +266,6 @@
 				D8DBCAA21C78956500669A0A /* mjpeg_decoder.cc in Sources */,
 				D8DBCAA51C78956500669A0A /* rotate.cc in Sources */,
 				D8DBCA9F1C78956500669A0A /* convert_to_argb.cc in Sources */,
-				D8DBCAAD1C78956500669A0A /* rotate_win.cc in Sources */,
 				D8DBCA991C78956500669A0A /* compare_win.cc in Sources */,
 				D8DBCA941C78956500669A0A /* compare.cc in Sources */,
 				D8DBCAB01C78956500669A0A /* row_gcc.cc in Sources */,
@@ -330,7 +314,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = include;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = "";
@@ -370,7 +354,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = include;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_CFLAGS = "";
 				SDKROOT = iphoneos;
